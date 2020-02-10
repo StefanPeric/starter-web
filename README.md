@@ -15,7 +15,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to Contribute
 
-Sample website with plenty of files for demos
+Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 2020 Git
