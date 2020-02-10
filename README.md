@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a sipmple website for showing how to use Git. Addin a line for rebasing example.
+This is a sipmple website for showing how to use Git. Addin a line for rebasing example, then 
+more changes here.
 
 ## Introdution
 Hello this is introducition	
